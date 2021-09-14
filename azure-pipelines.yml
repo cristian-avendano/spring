@@ -12,7 +12,7 @@ variables:
   azureSubscription: 'bb346060-f472-405a-abe5-ce4638c13b90'
 
   # Web app name
-  webAppName: 'test'
+  webAppName: 'myapp-rg'
 
   # Environment name
   environmentName: 'prueba'
