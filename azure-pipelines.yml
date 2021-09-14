@@ -12,10 +12,10 @@ variables:
   azureSubscription: 'bb346060-f472-405a-abe5-ce4638c13b90'
 
   # Web app name
-  webAppName: 'myapp-rg'
+  webAppName: 'java-spring-lab'
 
   # Environment name
-  environmentName: 'myapp-rg'
+  environmentName: 'java-spring-lab'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
